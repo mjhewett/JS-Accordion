@@ -1,7 +1,19 @@
-body{
+/*body{
 	width: 500px;
 	height: 490px;
 	border: 1px solid #00DAEC;
+}*/
+
+
+section {
+	height: 50px;
+	overflow: hidden;
+	width: 300px;
+	transition: 1s ease;
+}
+
+.thisSection{
+	height: 250px;
 }
 
 h2{
@@ -10,16 +22,11 @@ h2{
 	padding-left: 20px;
 	padding-top: 5px;
 	font-family: 'Poiret One', cursive;
+	margin: 0;
 }
+
 
 h2:hover{
-	background-color: #77BF03;
-	opacity: .9;
+	background: #BF67BF;
+	opacity: 0.4;
 }
-
-p{
-	padding-left: 10px;
-	padding-right: 10px;
-	font-family: 'Poiret One', cursive;
-}
-
