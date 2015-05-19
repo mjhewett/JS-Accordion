@@ -1,0 +1,25 @@
+body{
+	width: 500px;
+	height: 490px;
+	border: 1px solid #00DAEC;
+}
+
+h2{
+	height: 35px;
+	background-color: #00DAEC;
+	padding-left: 20px;
+	padding-top: 5px;
+	font-family: 'Poiret One', cursive;
+}
+
+h2:hover{
+	background-color: #77BF03;
+	opacity: .9;
+}
+
+p{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: 'Poiret One', cursive;
+}
+
